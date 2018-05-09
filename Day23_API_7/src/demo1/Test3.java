@@ -6,5 +6,7 @@ public class Test3 {
 
         System.out.println("我也不知道我要干嘛");
         System.out.println("你好吖");
+
+
     }
 }
