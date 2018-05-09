@@ -4,9 +4,9 @@ public class Test3 {
 
     public static void main(String[] args) {
 
-        System.out.println("ÎÒÒ²²»ÖªµÀÎÒÒª¸ÉÂï");
-        System.out.println("ÄãºÃß¹");
+        System.out.println("æˆ‘ä¹Ÿä¸çŸ¥é“æˆ‘è¦å¹²å˜›");
+        System.out.println("ä½ å¥½å–");
 
-
+         System.out.println("å“ˆå“ˆäº†");
     }
 }
